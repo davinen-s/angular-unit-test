@@ -1,7 +1,3 @@
-# Pluralsight's Unit Testing in Angular Course
-This course is up to date.
+# Tutorial 1 - Unit testing with Angular 6
 
-To get started, clone the repo or download it
-
-npm install
-npm test
+This project contains sample code and unit test for an modified version of Tour of Heroes.
